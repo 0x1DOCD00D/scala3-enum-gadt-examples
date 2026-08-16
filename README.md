@@ -1,6 +1,6 @@
 # Scala 3 Enum and GADT Examples
 
-This project collects the runnable examples from the Scala 3 enum and GADT tutorial derived from the attached Java enum-pattern article.
+This project collects the runnable examples from the Scala 3 enum and GADT tutorial.
 
 The examples cover:
 
